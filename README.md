@@ -6,6 +6,7 @@ http://doc.sys.scu.edu.tw/teachplanHtml/1072/1072PFT22301.html
 
 ## About Line ChatBot：
 * To try our ChatBot:
+  
   ![img](https://github.com/chinghsuan/SCU-Line-ChatBot-Fintech-AI-of-Stock-Prediction/blob/main/QRcode%20of%20Line%20ChatBot.png)
 
 ## About IC之AI模型之建置與預測：
