@@ -5,9 +5,14 @@ SCU – 巨量資料與金融科技實務 BIG DATA AND FINTECH PARTICES (107-Spr
 http://doc.sys.scu.edu.tw/teachplanHtml/1072/1072PFT22301.html
 
 ## About Line ChatBot：
-* To try our ChatBot:
+The report is shown in ```Line ChatBot-易遊未盡``` file.
+* To try our ChatBot, please scan the QRcode below and add us as a friend:
   
-  ![img](https://github.com/chinghsuan/SCU-Line-ChatBot-Fintech-AI-of-Stock-Prediction/blob/main/QRcode%20of%20Line%20ChatBot.png)
+  ![img](https://github.com/67xuan1379OuO/SCU_Line-ChatBot-Fintech-AI-of-Stock-Prediction/blob/main/QRcode%20of%20Line%20ChatBot.png)
 
 ## About IC之AI模型之建置與預測：
-透過機器學習方法，評估Alpha以及Beta風險因子，結合金融領域知識評估IC對於股票風險預測與投資組合之設計。
+Through machine learning methods, evaluate Alpha and Beta risk factors, and combine financial field knowledge to evaluate IC's design of stock risk prediction and investment portfolio.
+- Data preprocessing
+- Model Training
+- Evaluation
+The report is shown in ```AI model building and prediction of IC``` file.
